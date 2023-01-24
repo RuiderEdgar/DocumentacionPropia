@@ -8,11 +8,49 @@ Scrum es un marco de trabajo ágil utilizado para el desarrollo de software y pr
 
 **Roles:**
 
-- Scrum Master: es el facilitador del proceso Scrum y se encarga de asegurar que el equipo sigue las prácticas y principios de Scrum.
+- **Scrum Master**:
 
-- Product Owner: es el representante del negocio y se encarga de        establecer y priorizar el backlog del producto.
+Es el facilitador del proceso Scrum y se encarga de asegurar que el equipo siga las prácticas y principios de Scrum. Sus responsabilidades incluyen:
 
-- El equipo de desarrollo: es responsable de completar las tareas del backlog del producto y de construir el producto incremento a incremento.
+ - Asegurar que el equipo sigue las reglas y procesos de Scrum.
+- Ayudar al equipo a entender y seguir los principios ágiles.
+- Facilitar las reuniones y eventos de Scrum, incluyendo la planificación de sprint, la reunión diaria de Scrum, la revisión del sprint y la retrospectiva.
+- Ayudar al equipo a identificar y eliminar obstáculos que impidan el progreso del proyecto.
+- Proteger al equipo de interrupciones y distracciones externas.
+- Ayudar al equipo a mejorar su proceso y rendimiento a través de la retroalimentación y las acciones de mejora.
+- Facilitar la comunicación entre el equipo, el Product Owner y otros interesados.
+- Ayudar al equipo a cumplir con los objetivos del sprint y el producto.
+
+- **Product Owner:**
+
+Es el representante del negocio en el equipo Scrum y se encarga de establecer y priorizar el backlog del producto. Sus responsabilidades incluyen:
+
+- Representar al negocio y las necesidades del cliente.
+- Establecer y priorizar el backlog del producto en función de los objetivos del negocio y las necesidades del cliente.
+- Asegurar que el equipo de desarrollo entiende los objetivos del negocio y las necesidades del cliente.
+- Establecer los criterios de aceptación para cada tarea en el backlog del producto.
+- Asegurar que el producto cumpla con los criterios de aceptación del backlog del producto.
+- Participar en las reuniones y eventos de Scrum, incluyendo la planificación de sprint, la revisión del sprint y la retrospectiva.
+- Comunicar el progreso del sprint al Scrum Master y al equipo de desarrollo.
+- Aceptar o rechazar el trabajo completado en el sprint.
+- Trabajar con el equipo de desarrollo para asegurar que el producto cumpla con los objetivos del negocio y las necesidades del cliente.
+
+En resumen, el Product Owner es el representante del negocio en el equipo Scrum, encargado de establecer y priorizar el backlog del producto, asegurando que el equipo de desarrollo entiende los objetivos del negocio y las necesidades del cliente, estableciendo criterios de aceptación, asegurando que el producto cumpla con los criterios, participando en las reuniones y eventos de Scrum, comunicando el progreso, aceptando o rechazando el trabajo completado y trabajando con el equipo de desarrollo para asegurar que el producto cumpla con los objetivos del negocio y las necesidades del cliente.
+
+- **Equipo de desarrollo:**
+
+Ees responsable de completar las tareas en el backlog del producto y construir el producto incremento a incremento. Sus responsabilidades incluyen:
+
+- Completar las tareas del backlog del sprint, trabajando en conjunto para alcanzar los objetivos del sprint.
+- Participar en las reuniones y eventos de Scrum, incluyendo la planificación de sprint, la reunión diaria de Scrum, la revisión del sprint y la retrospectiva.
+- Comunicar el progreso del sprint al Scrum Master y al Product Owner.
+- Identificar y reportar cualquier problema o obstáculo que impida el progreso del sprint.
+- Trabajar con el Product Owner para asegurar que el producto cumpla con los criterios de aceptación del backlog del producto.
+- Participar en la mejora continua del proceso y del rendimiento del equipo.
+- Establecer metas y objetivos para el sprint y trabajar para alcanzarlos.
+- Trabajar en un ambiente colaborativo y ágil, adaptándose a los cambios y al feedback.
+- 
+En resumen, el equipo de desarrollo es responsable de completar las tareas del backlog del producto, trabajando en conjunto para alcanzar los objetivos del sprint, participando en las reuniones y eventos de Scrum, comunicando el progreso, identificando y reportando problemas, trabajando con el Product Owner y en un ambiente colaborativo y ágil.
 
 **Eventos:**
 
@@ -38,16 +76,6 @@ En resumen, Scrum es un marco de trabajo ágil que se divide en tres roles event
 - Los **eventos** son la planificación de sprint, la reunión diaria de Scrum, la revisión del sprint y la retrospectiva.
 - Los **artefactos** son el backlog del producto, el backlog del sprint y el incremento (entrega funcional del producto).
 
-## Puntos sprint
-
-Los puntos de sprint (también conocidos como puntos de historia o puntos de esfuerzo) son una medida utilizada para estimar el tamaño o el esfuerzo de las tareas en el backlog del producto. Se utilizan para ayudar al equipo a planificar el trabajo en un sprint y a tomar decisiones sobre qué tareas incluir en el backlog del sprint.
-
-Los puntos de sprint se asignan a cada tarea en el backlog del producto utilizando un sistema de estimación conocido como *Planning Poker.* Durante una sesión de *Planning Poker*, el equipo discute cada tarea y asigna un número de puntos de sprint que refleja el esfuerzo estimado para completar la tarea.
-
-una vez asignados los puntos de sprint, el equipo puede utilizarlos para planificar el trabajo en un sprint. El objetivo es seleccionar tareas del backlog del producto con un total de puntos de sprint que se ajusten al límite de capacidad del equipo en el sprint. De esta forma, el equipo puede asegurar que tiene un plan realista y sostenible para completar el trabajo en el sprint.
-
-Los puntos de sprint también se utilizan para medir el rendimiento del equipo a lo largo del tiempo. Si el equipo completa una cantidad consistente de puntos de sprint en cada sprint, esto puede indicar que el equipo está trabajando de manera eficiente y que el proceso de estimación es preciso.
-
 ## Que es un sprint?
 
 Un sprint es un período de tiempo, generalmente de una a cuatro semanas, durante el cual un equipo trabaja en un conjunto específico de tareas con el objetivo de completar un conjunto específico de objetivos. Los sprints son una parte fundamental del desarrollo ágil de software, y son comunes en metodologías como Scrum.
@@ -57,6 +85,16 @@ Durante un sprint, el equipo se reúne al principio y al final para planificar y
 Al final del sprint, el equipo se reúne para una reunión de revisión (o "demo"), donde presentan el trabajo completado a los interesados, incluyendo al equipo de desarrollo, el equipo de negocios y el equipo de gestión. Esta reunión es una oportunidad para recibir retroalimentación y hacer ajustes para el siguiente sprint.
 
 En resumen, el sprint es un período de tiempo de trabajo enfocado en un conjunto específico de objetivos, utilizado en metodologías ágiles como Scrum. Es una oportunidad para el equipo para trabajar en tareas específicas, recibir retroalimentación, y hacer ajustes para el siguiente sprint.
+
+## Puntos sprint
+
+Los puntos de sprint (también conocidos como puntos de historia o puntos de esfuerzo) son una medida utilizada para estimar el tamaño o el esfuerzo de las tareas en el backlog del producto. Se utilizan para ayudar al equipo a planificar el trabajo en un sprint y a tomar decisiones sobre qué tareas incluir en el backlog del sprint.
+
+Los puntos de sprint se asignan a cada tarea en el backlog del producto utilizando un sistema de estimación conocido como *Planning Poker.* Durante una sesión de *Planning Poker*, el equipo discute cada tarea y asigna un número de puntos de sprint que refleja el esfuerzo estimado para completar la tarea.
+
+una vez asignados los puntos de sprint, el equipo puede utilizarlos para planificar el trabajo en un sprint. El objetivo es seleccionar tareas del backlog del producto con un total de puntos de sprint que se ajusten al límite de capacidad del equipo en el sprint. De esta forma, el equipo puede asegurar que tiene un plan realista y sostenible para completar el trabajo en el sprint.
+
+Los puntos de sprint también se utilizan para medir el rendimiento del equipo a lo largo del tiempo. Si el equipo completa una cantidad consistente de puntos de sprint en cada sprint, esto puede indicar que el equipo está trabajando de manera eficiente y que el proceso de estimación es preciso.
 
 ## Asignacion de los puntos de sprint
 
