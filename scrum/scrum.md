@@ -48,6 +48,16 @@ una vez asignados los puntos de sprint, el equipo puede utilizarlos para planifi
 
 Los puntos de sprint también se utilizan para medir el rendimiento del equipo a lo largo del tiempo. Si el equipo completa una cantidad consistente de puntos de sprint en cada sprint, esto puede indicar que el equipo está trabajando de manera eficiente y que el proceso de estimación es preciso.
 
+## Que es un sprint?
+
+Un sprint es un período de tiempo, generalmente de una a cuatro semanas, durante el cual un equipo trabaja en un conjunto específico de tareas con el objetivo de completar un conjunto específico de objetivos. Los sprints son una parte fundamental del desarrollo ágil de software, y son comunes en metodologías como Scrum.
+
+Durante un sprint, el equipo se reúne al principio y al final para planificar y revisar el trabajo. El objetivo es completar un conjunto de tareas, conocido como el "backlog de sprint", que se ha establecido en el plan de sprint. Cada sprint tiene un objetivo específico, y se espera que el equipo lo alcance al final del sprint. El trabajo realizado durante el sprint, el equipo trabaja en las tareas del backlog de sprint y se reúne diariamente para discutir el progreso y cualquier problema que puedan surgir. El objetivo es mantener un flujo constante de trabajo y asegurar que el equipo esté en el mismo camino para alcanzar el objetivo del sprint.
+
+Al final del sprint, el equipo se reúne para una reunión de revisión (o "demo"), donde presentan el trabajo completado a los interesados, incluyendo al equipo de desarrollo, el equipo de negocios y el equipo de gestión. Esta reunión es una oportunidad para recibir retroalimentación y hacer ajustes para el siguiente sprint.
+
+En resumen, el sprint es un período de tiempo de trabajo enfocado en un conjunto específico de objetivos, utilizado en metodologías ágiles como Scrum. Es una oportunidad para el equipo para trabajar en tareas específicas, recibir retroalimentación, y hacer ajustes para el siguiente sprint.
+
 ## Asignacion de los puntos de sprint
 
 Los puntos de sprint se asignan a través de un proceso conocido como **Planning Poker**. El proceso es el siguiente:
