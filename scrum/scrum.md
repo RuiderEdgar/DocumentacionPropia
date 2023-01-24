@@ -8,49 +8,57 @@ Scrum es un marco de trabajo ágil utilizado para el desarrollo de software y pr
 
 **Roles:**
 
+---
+
 - **Scrum Master**:
 
-Es el facilitador del proceso Scrum y se encarga de asegurar que el equipo siga las prácticas y principios de Scrum. Sus responsabilidades incluyen:
+   Es el facilitador del proceso Scrum y se encarga de asegurar que el equipo siga las prácticas y principios de Scrum. Sus responsabilidades incluyen:
 
- - Asegurar que el equipo sigue las reglas y procesos de Scrum.
-- Ayudar al equipo a entender y seguir los principios ágiles.
-- Facilitar las reuniones y eventos de Scrum, incluyendo la planificación de sprint, la reunión diaria de Scrum, la revisión del sprint y la retrospectiva.
-- Ayudar al equipo a identificar y eliminar obstáculos que impidan el progreso del proyecto.
-- Proteger al equipo de interrupciones y distracciones externas.
-- Ayudar al equipo a mejorar su proceso y rendimiento a través de la retroalimentación y las acciones de mejora.
-- Facilitar la comunicación entre el equipo, el Product Owner y otros interesados.
-- Ayudar al equipo a cumplir con los objetivos del sprint y el producto.
+    - Asegurar que el equipo sigue las reglas y procesos de Scrum.
+   - Ayudar al equipo a entender y seguir los principios ágiles.
+   - Facilitar las reuniones y eventos de Scrum, incluyendo la planificación de sprint, la reunión diaria de Scrum, la revisión del sprint y la retrospectiva.
+   - Ayudar al equipo a identificar y eliminar obstáculos que impidan el progreso del proyecto.
+   - Proteger al equipo de interrupciones y distracciones externas.
+   - Ayudar al equipo a mejorar su proceso y rendimiento a través de la retroalimentación y las acciones de mejora.
+   - Facilitar la comunicación entre el equipo, el Product Owner y otros interesados.
+   - Ayudar al equipo a cumplir con los objetivos del sprint y el producto.
+
+---
 
 - **Product Owner:**
 
-Es el representante del negocio en el equipo Scrum y se encarga de establecer y priorizar el backlog del producto. Sus responsabilidades incluyen:
+   Es el representante del negocio en el equipo Scrum y se encarga de establecer y priorizar el backlog del producto. Sus responsabilidades incluyen:
 
-- Representar al negocio y las necesidades del cliente.
-- Establecer y priorizar el backlog del producto en función de los objetivos del negocio y las necesidades del cliente.
-- Asegurar que el equipo de desarrollo entiende los objetivos del negocio y las necesidades del cliente.
-- Establecer los criterios de aceptación para cada tarea en el backlog del producto.
-- Asegurar que el producto cumpla con los criterios de aceptación del backlog del producto.
-- Participar en las reuniones y eventos de Scrum, incluyendo la planificación de sprint, la revisión del sprint y la retrospectiva.
-- Comunicar el progreso del sprint al Scrum Master y al equipo de desarrollo.
-- Aceptar o rechazar el trabajo completado en el sprint.
-- Trabajar con el equipo de desarrollo para asegurar que el producto cumpla con los objetivos del negocio y las necesidades del cliente.
+   - Representar al negocio y las necesidades del cliente.
+   - Establecer y priorizar el backlog del producto en función de los objetivos del negocio y las necesidades del cliente.
+   - Asegurar que el equipo de desarrollo entiende los objetivos del negocio y las necesidades del cliente.
+   - Establecer los criterios de aceptación para cada tarea en el backlog del producto.
+   - Asegurar que el producto cumpla con los criterios de aceptación del backlog del producto.
+   - Participar en las reuniones y eventos de Scrum, incluyendo la planificación de sprint, la revisión del sprint y la retrospectiva.
+   - Comunicar el progreso del sprint al Scrum Master y al equipo de desarrollo.
+   - Aceptar o rechazar el trabajo completado en el sprint.
+   - Trabajar con el equipo de desarrollo para asegurar que el producto cumpla con los objetivos del negocio y las necesidades del cliente.
 
-En resumen, el Product Owner es el representante del negocio en el equipo Scrum, encargado de establecer y priorizar el backlog del producto, asegurando que el equipo de desarrollo entiende los objetivos del negocio y las necesidades del cliente, estableciendo criterios de aceptación, asegurando que el producto cumpla con los criterios, participando en las reuniones y eventos de Scrum, comunicando el progreso, aceptando o rechazando el trabajo completado y trabajando con el equipo de desarrollo para asegurar que el producto cumpla con los objetivos del negocio y las necesidades del cliente.
+   En resumen, el Product Owner es el representante del negocio en el equipo Scrum, encargado de establecer y priorizar el backlog del producto, asegurando que el equipo de desarrollo entiende los objetivos del negocio y las necesidades del cliente, estableciendo criterios de aceptación, asegurando que el producto cumpla con los criterios, participando en las reuniones y eventos de Scrum, comunicando el progreso, aceptando o rechazando el trabajo completado y trabajando con el equipo de desarrollo para asegurar que el producto cumpla con los objetivos del negocio y las necesidades del cliente.
+
+---
 
 - **Equipo de desarrollo:**
 
-Ees responsable de completar las tareas en el backlog del producto y construir el producto incremento a incremento. Sus responsabilidades incluyen:
+   Es responsable de completar las tareas en el backlog del producto y construir el producto incremento a incremento. Sus responsabilidades incluyen:
 
-- Completar las tareas del backlog del sprint, trabajando en conjunto para alcanzar los objetivos del sprint.
-- Participar en las reuniones y eventos de Scrum, incluyendo la planificación de sprint, la reunión diaria de Scrum, la revisión del sprint y la retrospectiva.
-- Comunicar el progreso del sprint al Scrum Master y al Product Owner.
-- Identificar y reportar cualquier problema o obstáculo que impida el progreso del sprint.
-- Trabajar con el Product Owner para asegurar que el producto cumpla con los criterios de aceptación del backlog del producto.
-- Participar en la mejora continua del proceso y del rendimiento del equipo.
-- Establecer metas y objetivos para el sprint y trabajar para alcanzarlos.
-- Trabajar en un ambiente colaborativo y ágil, adaptándose a los cambios y al feedback.
-- 
-En resumen, el equipo de desarrollo es responsable de completar las tareas del backlog del producto, trabajando en conjunto para alcanzar los objetivos del sprint, participando en las reuniones y eventos de Scrum, comunicando el progreso, identificando y reportando problemas, trabajando con el Product Owner y en un ambiente colaborativo y ágil.
+   - Completar las tareas del backlog del sprint, trabajando en conjunto para alcanzar los objetivos del sprint.
+   - Participar en las reuniones y eventos de Scrum, incluyendo la planificación de sprint, la reunión diaria de Scrum, la revisión del sprint y la retrospectiva.
+   - Comunicar el progreso del sprint al Scrum Master y al Product Owner.
+   - Identificar y reportar cualquier problema o obstáculo que impida el progreso del sprint.
+   - Trabajar con el Product Owner para asegurar que el producto cumpla con los criterios de aceptación del backlog del producto.
+   - Participar en la mejora continua del proceso y del rendimiento del equipo.
+   - Establecer metas y objetivos para el sprint y trabajar para alcanzarlos.
+   - Trabajar en un ambiente colaborativo y ágil, adaptándose a los cambios y al feedback.
+
+   En resumen, el equipo de desarrollo es responsable de completar las tareas del backlog del producto, trabajando en conjunto para alcanzar los objetivos del sprint, participando en las reuniones y eventos de Scrum, comunicando el progreso, identificando y reportando problemas, trabajando con el Product Owner y en un ambiente colaborativo y ágil.
+
+---
 
 **Eventos:**
 
@@ -113,6 +121,7 @@ Los puntos de sprint se asignan a través de un proceso conocido como **Planning
 Es importante mencionar que el proceso de estimación es una tarea que realiza el equipo, no es una tarea exclusiva del Scrum Master o del Product Owner. También es importante tener en cuenta que el proceso de estimación no es una exactitud científica, sino una forma de dar una idea del esfuerzo necesario para completar una tarea, y se irá mejorando con la experiencia y conocimiento del equipo.
 
 ---
+
 Es importante mencionar que el proceso de Scrum es iterativo, es decir, el equipo realiza sprints consecutivos para completar el producto. En cada sprint el equipo se enfoca en un conjunto específico de tareas con el objetivo de alcanzar un conjunto específico de objetivos. El proceso continúa hasta que el producto esté completamente desarrollado y cumpla con las necesidades del negocio.
 
 ## Conclusión
