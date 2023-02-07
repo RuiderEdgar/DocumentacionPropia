@@ -13,6 +13,36 @@ nombreApp
     $npm install
     $npm run dev
 
+## Configurar el archivo vite.config.js
+
+---
+	export default defineConfig({
+	  plugins: [react(),],
+	  server: {
+	    port: 3030,
+	  },
+	  preview: {
+	    port: 4060,
+	  },
+	  build: {
+	    //acelera el proceso de compilacion de los archivos cuando generas el build
+	    incremebtal: true,
+	    //habilitar un trabajo en conjunto con Babel, para el manejo ccorecto del versionado del js moderno a la version que necesite el navegador
+	    babel: {
+	      presets: ['@babel/preset-env', '@babel/preset-react'],
+	    },
+	    //habilitar la aceleracion de compilacion de TS a JS
+	    typescript: {
+	      tsconfig: "./tsconfig.json"
+	    },
+	    // Habilitar cache para optimizar el compilado de los recursos que caen en dist
+	    cache: true,
+
+	    //habilitar la opcion de compresion optimizada para minimizar el tamañó de los archivos generados
+	    minify: true,
+	  }
+	})
+
 ## Tailwind en vite
 
     $npm install -D tailwindcss postcss autoprefixer
